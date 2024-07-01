@@ -38,3 +38,6 @@ button {
     outline: none;
     text-shadow: 1px 1px 2px rgb(255, 96, 96), 0 0 1em rgb(0, 0, 0), 0 0 0.2em rgb(0, 0, 0);
 }
+#scr1, #scr2 {
+    transform: translate(430px,-130px);
+}
