@@ -10,4 +10,4 @@ const printAll = function(){
 }
 
 const info = new Person("Giorgi","Motsonelidze","16",printAll)
-console.log(info.print())
+console.log(info.printAll())
